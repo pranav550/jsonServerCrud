@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "abhi",
+      "mobile": "1111111111",
+      "email": "abhi@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "shalaj",
+      "mobile": "3333333333",
+      "email": "shalaj@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "meera",
+      "mobile": "9878978978989",
+      "email": "meera@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ]
+}
